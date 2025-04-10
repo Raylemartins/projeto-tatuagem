@@ -1,4 +1,4 @@
-# Diário de Sessões de Tatuagem 🎨🖤
+# Diário de Sessões de Tatuagem 
 
 Este projeto foi criado para ajudar tatuadores iniciantes a organizarem suas sessões, controlarem os materiais usados, registrarem aprendizados e gerarem relatórios de custo. Ao final de cada mês, é possível ver um balanço geral com lucros e despesas.
 
